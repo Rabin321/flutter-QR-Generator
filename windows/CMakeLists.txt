@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(qrgenerator LANGUAGES CXX)
+project(my_qr LANGUAGES CXX)
 
-set(BINARY_NAME "qrgenerator")
+set(BINARY_NAME "my_qr")
 
 cmake_policy(SET CMP0063 NEW)
 

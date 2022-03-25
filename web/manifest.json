@@ -1,6 +1,6 @@
 {
-    "name": "qrgenerator",
-    "short_name": "qrgenerator",
+    "name": "my_qr",
+    "short_name": "my_qr",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

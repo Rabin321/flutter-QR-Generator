@@ -1,4 +1,4 @@
-# qrgenerator
+# my_qr
 
 A new Flutter project.
 
